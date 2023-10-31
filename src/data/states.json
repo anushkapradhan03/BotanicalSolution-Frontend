@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Andhra Pradesh",
+    "capital": "Amaravati",
+    "population": 49506799,
+    "area": 162970,
+    "officialLanguage": "Telugu"
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "capital": "Itanagar",
+    "population": 1383727,
+    "area": 83743,
+    "officialLanguage": "English"
+  },
+  {
+    "name": "Assam",
+    "capital": "Dispur",
+    "population": 35607039,
+    "area": 78438,
+    "officialLanguage": "Assamese"
+  },
+  {
+    "name": "Bihar",
+    "capital": "Patna",
+    "population": 124799926,
+    "area": 94163,
+    "officialLanguage": "Hindi"
+  },
+  {
+    "name": "Chhattisgarh",
+    "capital": "Raipur",
+    "population": 29436231,
+    "area": 135191,
+    "officialLanguage": "Hindi"
+  },
+  {
+    "name": "Goa",
+    "capital": "Panaji",
+    "population": 1542756,
+    "area": 3702,
+    "officialLanguage": "Konkani"
+  },
+  {
+    "name": "Gujarat",
+    "capital": "Gandhinagar",
+    "population": 63872399,
+    "area": 196024,
+    "officialLanguage": "Gujarati"
+  },
+  {
+    "name": "Haryana",
+    "capital": "Chandigarh",
+    "population": 28204692,
+    "area": 44212,
+    "officialLanguage": "Hindi"
+  },
+  {
+    "name": "Himachal Pradesh",
+    "capital": "Shimla",
+    "population": 7451955,
+    "area": 55673,
+    "officialLanguage": "Hindi"
+  },
+  {
+    "name": "Jharkhand",
+    "capital": "Ranchi",
+    "population": 38593948,
+    "area": 79714,
+    "officialLanguage": "Hindi"
+  },
+  {
+    "name": "Karnataka",
+    "capital": "Bengaluru",
+    "population": 67562686,
+    "area": 191791,
+    "officialLanguage": "Kannada"
+  },
+  {
+    "name": "Kerala",
+    "capital": "Thiruvananthapuram",
+    "population": 35699443,
+    "area": 38863,
+    "officialLanguage": "Malayalam"
+  },
+  {
+    "name": "Madhya Pradesh",
+    "capital": "Bhopal",
+    "population": 85358965,
+    "area": 308252,
+    "officialLanguage": "Hindi"
+  },
+  {
+    "name": "Maharashtra",
+    "capital": "Mumbai",
+    "population": 123144223,
+    "area": 307713,
+    "officialLanguage": "Marathi"
+  },
+  {
+    "name": "Manipur",
+    "capital": "Imphal",
+    "population": 3091545,
+    "area": 22327,
+    "officialLanguage": "Meitei"
+  },
+  {
+    "name": "Meghalaya",
+    "capital": "Shillong",
+    "population": 3366710,
+    "area": 22429,
+    "officialLanguage": "English"
+  },
+  {
+    "name": "Mizoram",
+    "capital": "Aizawl",
+    "population": 1239244,
+    "area": 21081,
+    "officialLanguage": "Mizo"
+  },
+  {
+    "name": "Nagaland",
+    "capital": "Kohima",
+    "population": 2249695,
+    "area": 16579,
+    "officialLanguage": "English"
+  },
+  {
+    "name": "Odisha",
+    "capital": "Bhubaneswar",
+    "population": 46356334,
+    "area": 155707,
+    "officialLanguage": "Odia"
+  },
+  {
+    "name": "Punjab",
+    "capital": "Chandigarh",
+    "population": 30141373,
+    "area": 50362,
+    "officialLanguage": "Punjabi"
+  },
+  {
+    "name": "Rajasthan",
+    "capital": "Jaipur",
+    "population": 81032689,
+    "area": 342239,
+    "officialLanguage": "Hindi"
+  },
+  {
+    "name": "Sikkim",
+    "capital": "Gangtok",
+    "population": 690251,
+    "area": 7096,
+    "officialLanguage": "Nepali"
+  },
+  {
+    "name": "Tamil Nadu",
+    "capital": "Chennai",
+    "population": 77841267,
+    "area": 130058,
+    "officialLanguage": "Tamil"
+  },
+  {
+    "name": "Telangana",
+    "capital": "Hyderabad",
+    "population": 39362732,
+    "area": 112077,
+    "officialLanguage": "Telugu"
+  },
+  {
+    "name": "Tripura",
+    "capital": "Agartala",
+    "population": 4169794,
+    "area": 10486,
+    "officialLanguage": "Bengali"
+  },
+  {
+    "name": "Uttar Pradesh",
+    "capital": "Lucknow",
+    "population": 237882725,
+    "area": 240928,
+    "officialLanguage": "Hindi"
+  },
+  {
+    "name": "Uttarakhand",
+    "capital": "Dehradun",
+    "population": 11250858,
+    "area": 53483,
+    "officialLanguage": "Hindi"
+  },
+  {
+    "name": "West Bengal",
+    "capital": "Kolkata",
+    "population": 99609303,
+    "area": 88752,
+    "officialLanguage": "Bengali"
+  },
+  {
+    "name": "Andaman and Nicobar Islands",
+    "capital": "Port Blair",
+    "population": 417036,
+    "area": 8249,
+    "officialLanguage": "English"
+  },
+  {
+    "name": "Chandigarh",
+    "capital": "Chandigarh",
+    "population": 1179613,
+    "area": 114,
+    "officialLanguage": "Hindi, Punjabi"
+  },
+  {
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "capital": "Daman",
+    "population": 615724,
+    "area": 603,
+    "officialLanguage": "Gujarati, English"
+  },
+  {
+    "name": "Lakshadweep",
+    "capital": "Kavaratti",
+    "population": 73183,
+    "area": 32,
+    "officialLanguage": "Malayalam"
+  },
+  {
+    "name": "Delhi",
+    "capital": "New Delhi",
+    "population": 30290936,
+    "area": 1484,
+    "officialLanguage": "Hindi, English"
+  },
+  {
+    "name": "Puducherry",
+    "capital": "Puducherry",
+    "population": 1507223,
+    "area": 479,
+    "officialLanguage": "Tamil, English"
+  },
+  {
+    "name": "Jammu and Kashmir",
+    "capital": "Srinagar (summer), Jammu (winter)",
+    "population": 13606320,
+    "area": 222236,
+    "officialLanguage": "Urdu, Kashmiri, Dogri"
+  },
+  {
+    "name": "Ladakh",
+    "capital": "Leh",
+    "population": 274000,
+    "area": 59146,
+    "officialLanguage": "Ladakhi, Dogri, English"
+  }
+]
